@@ -181,61 +181,7 @@
 
 								</div>
 							</article>
-						<!--	<div class="price-table style2 with_border margin_bottom_50">
-								<div class="plan-name with_background">
-									<h3>F O F O model</h3>
-									<em>This deals with the basic maintenance services</em>
-								</div>
-								<div class="plan-price">
-									<span class="grey">199.90</span>
-									<p>/month</p>
-								</div>
-								<div class="with_background with_padding">
-									<div class="features-list">
-										<p>In this model the company just rund out the brand name to the franchise operator for a particular non refundable swm also said to be
-											franchise fee for an agreed interval of time with some supports for successfully operating the franchise.
-										</p>
-									</div>
-									<a href="contact.php" class="theme_button inverse">Make Inquiry</a>
-								</div>
-							</div>
-							<div class="price-table style2 with_border">
-								<div class="plan-name with_background">
-									<h3>C O C O model</h3>
-									<em>This deals with the basic maintenance services</em>
-								</div>
-								<div class="plan-price">
-									<span class="grey">199.90</span>
-									<p>/month</p>
-								</div>
-								<div class="with_background with_padding">
-									<div class="features-list">
-										<p>This is a type of outlet completely on and managed by the company.From setting up the stone to operating it at its best,the company does it all.
-										</p>
-									</div>
-									<a href="contact.php" class="theme_button inverse">Make Inquiry</a>
-								</div>
-							</div>
-							<div class="price-table style2 with_border">
-								<div class="plan-name with_background">
-									<h3>
-										Redevelopment model
-									</h3>
-									<em>This deals with the basic maintenance services</em>
-								</div>
-								<div class="plan-price">
-									<span class="grey">199.90</span>
-									<p>/month</p>
-								</div>
-								<div class="with_background with_padding">
-									<div class="features-list">
-										<p>Here, only brand name is provided along with some branding redo's for updating the outlet.
-										</p>
-									</div>
-									<a href="contact.php" class="theme_button inverse">Make Inquiry</a>
-								</div>
-							</div>
-
+		
                             <h3>Functionality</h3>
                             <!-- Nav tabs -->
                             <ul class="nav nav-tabs" role="tablist">
@@ -260,53 +206,60 @@
                                     Apna garage is India's leading digitally enabled two and four wheeler service centre which is dedicated towards high end detailing.
                                     </p>
                                 </div>
+								
                                 <div class="tab-pane fade" id="tab2">
-                                    <p>
-                                        We provide online as well as offline marketing to achive minimum customer base for all our outlets.
-                                    </p>
-                                    <p>
-                                        We are also majorly into organising the unorganised sector in which we provide on job training to individuals and turn them into skilled and professional service providers.This helps the youth to be financially independent and contribute to countty's economy.
-                                    </p>
-                                    <p>
-                                        With out wide range of trustworthy service like pickup and drop facility insurance support on road breakdown support.Annual maintenance contracts,warrany program on spare parts and lubricants,and much more.Through all these,we are bringing revolution in servicing of two and four wheeler workshops.
-                                    </p>
-									<p>
-										With well equipped two and four wheeler service stations and skillfull mechanics,we provide high quality service with excellent packages that are intended to offer you great maintenance and savings.
-									</p>
+									<ul class="list2 type2 grey">
+									<?php
+										include "db_connection.php";
+										$adv = "SELECT * FROM `advantages`";
+										$result = mysqli_query($conn,$adv);
+										
+										if(!$result){
+											die ("error found".mysqli_error($conn));
+										}
+										else{
+											while($row = mysqli_fetch_array($result))
+											{
+												echo "<li>".$row['advantage']."</li>" ;
+											}
+										}
+										
+									echo '
+									</ul>
+                                   
                                 </div>
                                 <div class="tab-pane fade" id="tab3">
-									<ul class="list2 type2 grey">
-										<li>Door Step service</li>
-										<li>No long queues (speedy servicing)</li>
-										<li>On road breakdown support</li>
-										<li>Timely service reminders</li>
-										<li>Insurance service and claims</li>
-										<li>spares warranty</li>
-										<li>Genuine sparse</li>
-										<li>Premium lubricants</li>
-										<li>Accident Support</li>
-										<li>Corporate warranty program</li>
+									<ul class="list2 type2 grey">';
+									$service = "SELECT * FROM `services`";
+									$result = mysqli_query($conn,$service);
+									
+									if(!$result){
+										die ("error found".mysqli_error($conn));
+									}
+									else{
+										while($row = mysqli_fetch_array($result))
+										{
+											echo "<li>".$row['service']."</li>" ;
+										}
+									}
+									echo'
 									</ul>
 								</div>
                                 <div class="tab-pane fade" id="tab4">
-                                    <ul class="list2 type2 grey">
-										<li>Innovative service expertise</li>
-										<li>Business management and technical training modeles</li>
-										<li>Various sales channels</li>
-										<li>Focus on vision,missin and values</li>
-										<li>Quality infrastructure</li>
-										<li>Strong SOP</li>
-										<li>Branding and promotions</li>
-										<li>Marketing manual/kit</li>
-										<li>24/7 Support assitent</li>
-										<li>Constant inovation for improvement</li>
-										<li>GST optimissed solutions</li>
-										<li>cost accounting support</li>
-										<li>It support (web,app,and software)</li>
-										<li>Marketing activity(Online and offline)</li>
-										<li>AMC sales</li>
-										<li>Cross Referral programs</li>
-										<li>Process TAT(turn around time)</li>
+                                    <ul class="list2 type2 grey">';
+									$query = "SELECT * FROM `c_support`";
+									$result = mysqli_query($conn,$query);
+									
+									if(!$result){
+										die ("error found".mysqli_error($conn));
+									}
+									else{
+										while($row = mysqli_fetch_array($result))
+										{
+											echo "<li>".$row['support']."</li>" ;
+										}
+									}
+									?>
 									</ul>
                                 </div>
                             </div>

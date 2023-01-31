@@ -8,32 +8,17 @@
 									<li>
 										<a href="index.php">Home</a>
 									</li>
-                                    
 									<li>
 										<a href="about.php">About us</a>
 									</li>
-									
 									<li>
 										<a href="services.php">Services</a>
-										
 									</li>
-									
-									<li>
-										<a href="#">blog</a>
-									</li>
-
-									<li>
+									<!--<li>
 										<a href="gallery-regular.html">Gallery</a>
-									</li>
-									
+									</li>-->									
 									<li>
 										<a href="partner.php">Become a partner</a>
-									</li>
-							
-									<li>
-										<a href="#" class="search_modal_button">
-											<i class="flaticon-magnifying-glass"></i>
-										</a>
 									</li>
 								</ul>
 							</nav>

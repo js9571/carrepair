@@ -178,22 +178,6 @@
 								<hr class="divider_2_30 main_bg_color center topmargin_10">
 								<h5 class="text-uppercase fontsize_16">customers</h5>
 							</div>
-							<!--<div class="teaser text-center">
-								<div class="teaser_icon size_big">
-									<i class="flaticon-clock highlight"></i>
-								</div>
-								<span class="counter grey" data-from="0" data-to="9521" data-speed="1500">0</span>
-								<hr class="divider_2_30 main_bg_color center topmargin_10">
-								<h5 class="text-uppercase fontsize_16">Hours work</h5>
-							</div>
-							<div class="teaser text-center">
-								<div class="teaser_icon size_big">
-									<i class="flaticon-cup highlight"></i>
-								</div>
-								<span class="counter grey" data-from="0" data-to="527" data-speed="1500">0</span>
-								<hr class="divider_2_30 main_bg_color center topmargin_10">
-								<h5 class="text-uppercase fontsize_16">Coffe cups</h5>
-							</div>-->
 							<div class="teaser text-center">
 								<div class="teaser_icon size_big">
 									<i class="flaticon-placeholder highlight"></i>
@@ -230,7 +214,7 @@
 									<i class="flaticon-share bold highlight"></i>
 								</div>
 								<h4>
-									<a href="audio-service.html">Car audio service</a>
+								Car audio service
 								</h4>
 								<p>
 									In nec venenatis libero. Integer volutpat laoreet orci et semper. Etiam vel gravida velit. Pellentesque dui nisi, fringilla quis imperdiet vel, facilisis vitae augue.
@@ -243,7 +227,7 @@
 									<i class="flaticon-printer highlight"></i>
 								</div>
 								<h4>
-									<a href="audio-service.html">Repair / maintenance</a>
+									Repair / maintenance
 								</h4>
 								<p>
 									Praesent vitae rhoncus nibh. Phasellus cursus rutrum ante id tincidunt. Suspendisse metus mi, maximus eget egestas et, tincidunt sit amet magna.
@@ -256,7 +240,7 @@
 									<i class="flaticon-cup-1 highlight"></i>
 								</div>
 								<h4>
-									<a href="audio-service.html">Rebuilders</a>
+									Rebuilders
 								</h4>
 								<p>
 									Nullam id laoreet risus, vel iaculis metus. Donec porttitor velit eu ipsum maximus, eget ultrices velit dapibus. Praesent molestie eros sed ipsum bibendum.
@@ -269,7 +253,7 @@
 									<i class="flaticon-oil highlight"></i>
 								</div>
 								<h4>
-									<a href="audio-service.html">Oil changes</a>
+									Oil changes
 								</h4>
 								<p>
 									Morbi id sem sit amet libero cursus ultricies. Sed pretium pulvinar lectus sit amet sodales. Pellentesque eu nisi bibendum, tempor justo a, faucibus neque.
@@ -282,7 +266,7 @@
 									<i class="flaticon-battery highlight"></i>
 								</div>
 								<h4>
-									<a href="audio-service.html">Car battery repairs</a>
+									Car battery repairs
 								</h4>
 								<p>
 									Nulla porta imperdiet malesuada. Phasellus sit amet molestie nibh. Vestibulum bibendum sapien sed neque varius, id condimentum erat finibus.
@@ -295,7 +279,7 @@
 									<i class="flaticon-racing-game highlight"></i>
 								</div>
 								<h4>
-									<a href="audio-service.html">Cars upgraids</a>
+									Cars upgraids
 								</h4>
 								<p>
 									Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Etiam vel sagittis tellus. Nullam vel eros eu eros dignissim auctor ac et mi.

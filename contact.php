@@ -66,7 +66,7 @@
 					<div class="row">
 						<div class="col-md-5 text-center text-md-left">
 							<a href="index.html" class="logo">
-								<img src="images/logo_mini.png" alt="">
+							<img src="images/logo_big.png" alt="" style="height: 50px; width: 100px;" >
 							</a>
 						</div>
 
@@ -102,17 +102,18 @@
 			?>
 
 			<section class="page_breadcrumbs template_breadcrumbs ds parallax">
-				<?php
-					include("index_logo.php");
-				?>
+				<div class="container">
+					<div class="row">
+						<h1 class="col-sm-12 text-center">Contact us</h1>
+					</div>
+				</div>
 			</section>
 
 			<section class="ds section_padding_top_100 section_padding_bottom_30 columns_margin_bottom_40">
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12">
-							<h3 class="section_header bottommargin_5">Contact us</h3>
-							<p class="poppins fontsize_18 regular text-uppercase bottommargin_15">Raj Automobiles</p>
+							<h3 class="section_header bottommargin_5">Raj Automobiles</h3>
 							<hr class="divider_2_60 main_bg_color topmargin_15 bottommargin_0">
 						</div>
 					</div>

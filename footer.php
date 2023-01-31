@@ -24,9 +24,9 @@
 							<li>
 								<a href="services.html">Services</a>
 							</li>
-							<li>
+							<!--<li>
 								<a href="gallery-tile.html">Portfolio</a>
-							</li>
+							</li>-->
 							<li>
 								<a href="blog-mosaic.html">Blog</a>
 							</li>
@@ -35,13 +35,13 @@
 					<div class="col-xs-6">
 						<ul class="list2 no-bullets margin_0">
 							<li>
-								<a href="team.html">Staff</a>
+								<a href="team.php">Staff</a>
 							</li>
-							<li>
+							<!--<li>
 								<a href="appointment.html">Booking</a>
-							</li>
+							</li>-->
 							<li>
-								<a href="pricing.html">Pricing</a>
+								<a href="partner.php">Become a partner</a>
 							</li>
 							<li>
 								<a href="contact.php">Contacts</a>

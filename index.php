@@ -62,33 +62,6 @@
 			<?php 
 				include ("template.php");
 				include ("index_logo.php");
-			?>
-
-			<!--<section class="intro_section page_mainslider ds">
-				<div class="flexslider">
-					<ul class="slides">
-						<li>
-							<img src=".$result" alt="" class="slide-bg">
-							
-						</li>
-						<li>
-							<img src="images/slide02.jpg" alt="" class="slide-bg">
-							
-						</li>
-						<li>
-							<img src="images/slide03.jpg" alt="" class="slide-bg">
-							
-						</li>
-						<li>
-							<img src="images/slide04.jpg" alt="" class="slide-bg">
-							
-						</li>
-					</ul>
-				</div>
-			
-			</section>-->
-
-			<?php 
 				include("nav.php");
 			?>
 			<section class="ds section_padding_110">
@@ -155,82 +128,6 @@
 					</div>
 				</div>
 			</section>
-
-		<!--	<section class="ds ms section_padding_top_100 section_padding_bottom_75 page_testimonials parallax">
-				<div class="container">
-					<div class="row">
-						<div class="col-sm-12 text-center">
-							<img src="images/wings.png" alt="" class="light-logo">
-							<img src="images/wings-dark.png" alt="" class="dark-logo">
-							<h2 class="section_header topmargin_10">Testimonials</h2>
-
-							<div class="owl-carousel testimonials-carousel topmargin_60 bottommargin_0" data-responsive-lg="3" data-responsive-md="2" data-responsive-sm="1">
-								<blockquote class="blockquote-item margin_0">
-									Sed vitae placerat velit, non semper nibh. Maecenas pharetra risus vitae sodales vulputate. Praesent accumsan, mi nec tempor convallis, felis nulla.
-									<div class="item-meta">
-										<h5>
-											Bill Alvarado
-										</h5>
-										<p class="grey poppins">Manager</p>
-									</div>
-								</blockquote>
-
-								<blockquote class="blockquote-item margin_0">
-									Etiam et pellentesque dui. Ut a sagittis est. Maecenas cursus massa nulla, sed finibus dolor rutrum ut. Nam luctus leo pharetra enim faucibus finibus.
-									<div class="item-meta">
-										<h5>
-											Alberta Wilson
-										</h5>
-										<p class="grey poppins">Businessman</p>
-									</div>
-								</blockquote>
-
-								<blockquote class="blockquote-item margin_0">
-									Nam fringilla magna at ipsum pharetra, et lobortis ante finibus. Morbi eu quam ante. Mauris mollis venenatis tortor non luctus. Curabitur dignissim.
-									<div class="item-meta">
-										<h5>
-											Zachary Fernandez
-										</h5>
-										<p class="grey poppins">Teacher</p>
-									</div>
-								</blockquote>
-
-								<blockquote class="blockquote-item margin_0">
-									Sed vitae placerat velit, non semper nibh. Maecenas pharetra risus vitae sodales vulputate. Praesent accumsan, mi nec tempor convallis, felis nulla.
-									<div class="item-meta">
-										<h5>
-											Bill Alvarado
-										</h5>
-										<p class="grey poppins">Manager</p>
-									</div>
-								</blockquote>
-
-								<blockquote class="blockquote-item margin_0">
-									Etiam et pellentesque dui. Ut a sagittis est. Maecenas cursus massa nulla, sed finibus dolor rutrum ut. Nam luctus leo pharetra enim faucibus finibus.
-									<div class="item-meta">
-										<h5>
-											Alberta Wilson
-										</h5>
-										<p class="grey poppins">Businessman</p>
-									</div>
-								</blockquote>
-
-								<blockquote class="blockquote-item margin_0">
-									Nam fringilla magna at ipsum pharetra, et lobortis ante finibus. Morbi eu quam ante. Mauris mollis venenatis tortor non luctus. Curabitur dignissim.
-									<div class="item-meta">
-										<h5>
-											Zachary Fernandez
-										</h5>
-										<p class="grey poppins">Teacher</p>
-									</div>
-								</blockquote>
-
-							</div>
-						</div>
-					</div>
-				</div>
-			</section> -->
-
 			<section class="ds section_padding_110 table_section table_section_md">
 				<div class="container">
 					<div class="row bottommargin_60">
@@ -247,12 +144,8 @@
 									<div class="vertical-item with_background with_padding with_border bottommargin_30">
 										<div class="item-content">
 											<div class="item-meta greylinks">
-												<!--<span class="item-date">2 days ago</span> /
-												<a href="blog-single-video-right.html#comments">15 comments</a> /
-												<span class="item-likes">27 likes</span>
-											</div>-->
 											<h4 class="entry-title regular">
-												<a href="blog-full.html">Expertise In Innovative Two Wheeler Servicing</a>
+												<a href="#">Expertise In Innovative Two Wheeler Servicing</a>
 											</h4>
 										</div>
 										<div class="media-links">
@@ -269,7 +162,7 @@
 												<span class="item-likes">20 likes</span>
 											</div>-->
 											<h4 class="entry-title regular">
-												<a href="blog-full.html">Skilled Mechanic Force</a>
+												<a href="#">Skilled Mechanic Force</a>
 											</h4>
 										</div>
 										<div class="media-links">
@@ -286,7 +179,7 @@
 												<span class="item-likes">31 likes</span>
 											</div>-->
 											<h4 class="entry-title regular">
-												<a href="blog-full.html">Spares And Lubricant</a>
+												<a href="#">Spares And Lubricant</a>
 											</h4>
 										</div>
 										<div class="media-links">
@@ -327,12 +220,8 @@
 									<div class="vertical-item with_background with_padding with_border bottommargin_30">
 										<div class="item-content">
 											<div class="item-meta greylinks">
-												<!--<span class="item-date">2 days ago</span> /
-												<a href="blog-single-video-right.html#comments">15 comments</a> /
-												<span class="item-likes">27 likes</span>
-											</div>-->
 											<h4 class="entry-title regular">
-												<a href="blog-full.html">Various Sales Channels</a>
+												<a href="#">Various Sales Channels</a>
 											</h4>
 										</div>
 										<div class="media-links">
@@ -344,13 +233,8 @@
 									<div class="vertical-item with_background with_padding with_border bottommargin_30">
 										<div class="item-content">
 											<div class="item-meta greylinks">
-												
-												<!--<span class="item-date">3 days ago</span> /
-												<a href="blog-single-video-right.html#comments">11 comments</a> /
-												<span class="item-likes">20 likes</span>
-											</div>-->
 											<h4 class="entry-title regular">
-												<a href="blog-full.html">Quality IT Infrastructure</a>
+												<a href="#">Quality IT Infrastructure</a>
 											</h4>
 										</div>
 										<div class="media-links">
@@ -362,12 +246,8 @@
 									<div class="vertical-item with_background with_padding with_border bottommargin_30">
 										<div class="item-content">
 											<div class="item-meta greylinks">
-												<!--<span class="item-date">4 days ago</span> /
-												<a href="blog-single-video-right.html#comments">22 comments</a> /
-												<span class="item-likes">31 likes</span>
-											</div>-->
 											<h4 class="entry-title regular">
-												<a href="blog-full.html">We Focus On Vision, Mission, And Values</a>
+												<a href="#">We Focus On Vision, Mission, And Values</a>
 											</h4>
 										</div>
 										<div class="media-links">
@@ -409,27 +289,6 @@
 											<div class="media-links">
 											</div>
 										</div>
-										<div class="item-content display_table">
-											<div class="display_table_cell">
-												<div class="links-wrap greylinks">
-													<a href="#" class="like-link">
-														<i class="flaticon-heart"></i>
-													</a>
-													<a class="p-link" title="" href="gallery-single.html">
-														<i class="flaticon-link"></i>
-													</a>
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/01.jpg">
-														<i class="flaticon-glasses"></i>
-													</a>
-												</div>
-												<h3 class="text-uppercase">
-													<a href="gallery-single.html">Nulla finibus sed justo</a>
-												</h3>
-												<span class="categories-links greylinks">
-													<a rel="category" href="gallery-fullwidth-4-cols.html">Category 1</a>
-												</span>
-											</div>
-										</div>
 									</div>
 								</div>
 
@@ -438,27 +297,6 @@
 										<div class="item-media">
 											<img src="images/gallery/02.jpg" alt="">
 											<div class="media-links">
-											</div>
-										</div>
-										<div class="item-content display_table">
-											<div class="display_table_cell">
-												<div class="links-wrap greylinks">
-													<a href="#" class="like-link">
-														<i class="flaticon-heart"></i>
-													</a>
-													<a class="p-link" title="" href="gallery-single.html">
-														<i class="flaticon-link"></i>
-													</a>
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/02.jpg">
-														<i class="flaticon-glasses"></i>
-													</a>
-												</div>
-												<h3 class="text-uppercase">
-													<a href="gallery-single.html">Nulla finibus sed justo</a>
-												</h3>
-												<span class="categories-links greylinks">
-													<a rel="category" href="gallery-fullwidth-4-cols.html">Category 1</a>
-												</span>
 											</div>
 										</div>
 									</div>
@@ -471,27 +309,6 @@
 											<div class="media-links">
 											</div>
 										</div>
-										<div class="item-content display_table">
-											<div class="display_table_cell">
-												<div class="links-wrap greylinks">
-													<a href="#" class="like-link">
-														<i class="flaticon-heart"></i>
-													</a>
-													<a class="p-link" title="" href="gallery-single.html">
-														<i class="flaticon-link"></i>
-													</a>
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/03.jpg">
-														<i class="flaticon-glasses"></i>
-													</a>
-												</div>
-												<h3 class="text-uppercase">
-													<a href="gallery-single.html">Nulla finibus sed justo</a>
-												</h3>
-												<span class="categories-links greylinks">
-													<a rel="category" href="gallery-fullwidth-4-cols.html">Category 1</a>
-												</span>
-											</div>
-										</div>
 									</div>
 								</div>
 
@@ -500,27 +317,6 @@
 										<div class="item-media">
 											<img src="images/gallery/04.jpg" alt="">
 											<div class="media-links">
-											</div>
-										</div>
-										<div class="item-content display_table">
-											<div class="display_table_cell">
-												<div class="links-wrap greylinks">
-													<a href="#" class="like-link">
-														<i class="flaticon-heart"></i>
-													</a>
-													<a class="p-link" title="" href="gallery-single.html">
-														<i class="flaticon-link"></i>
-													</a>
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/04.jpg">
-														<i class="flaticon-glasses"></i>
-													</a>
-												</div>
-												<h3 class="text-uppercase">
-													<a href="gallery-single.html">Nulla finibus sed justo</a>
-												</h3>
-												<span class="categories-links greylinks">
-													<a rel="category" href="gallery-fullwidth-4-cols.html">Category 1</a>
-												</span>
 											</div>
 										</div>
 									</div>
@@ -533,27 +329,6 @@
 											<div class="media-links">
 											</div>
 										</div>
-										<div class="item-content display_table">
-											<div class="display_table_cell">
-												<div class="links-wrap greylinks">
-													<a href="#" class="like-link">
-														<i class="flaticon-heart"></i>
-													</a>
-													<a class="p-link" title="" href="gallery-single.html">
-														<i class="flaticon-link"></i>
-													</a>
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/05.jpg">
-														<i class="flaticon-glasses"></i>
-													</a>
-												</div>
-												<h3 class="text-uppercase">
-													<a href="gallery-single.html">Nulla finibus sed justo</a>
-												</h3>
-												<span class="categories-links greylinks">
-													<a rel="category" href="gallery-fullwidth-4-cols.html">Category 1</a>
-												</span>
-											</div>
-										</div>
 									</div>
 								</div>
 
@@ -562,27 +337,6 @@
 										<div class="item-media">
 											<img src="images/gallery/06.jpg" alt="">
 											<div class="media-links">
-											</div>
-										</div>
-										<div class="item-content display_table">
-											<div class="display_table_cell">
-												<div class="links-wrap greylinks">
-													<a href="#" class="like-link">
-														<i class="flaticon-heart"></i>
-													</a>
-													<a class="p-link" title="" href="gallery-single.html">
-														<i class="flaticon-link"></i>
-													</a>
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/06.jpg">
-														<i class="flaticon-glasses"></i>
-													</a>
-												</div>
-												<h3 class="text-uppercase">
-													<a href="gallery-single.html">Nulla finibus sed justo</a>
-												</h3>
-												<span class="categories-links greylinks">
-													<a rel="category" href="gallery-fullwidth-4-cols.html">Category 1</a>
-												</span>
 											</div>
 										</div>
 									</div>
@@ -595,27 +349,6 @@
 											<div class="media-links">
 											</div>
 										</div>
-										<div class="item-content display_table">
-											<div class="display_table_cell">
-												<div class="links-wrap greylinks">
-													<a href="#" class="like-link">
-														<i class="flaticon-heart"></i>
-													</a>
-													<a class="p-link" title="" href="gallery-single.html">
-														<i class="flaticon-link"></i>
-													</a>
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/07.jpg">
-														<i class="flaticon-glasses"></i>
-													</a>
-												</div>
-												<h3 class="text-uppercase">
-													<a href="gallery-single.html">Nulla finibus sed justo</a>
-												</h3>
-												<span class="categories-links greylinks">
-													<a rel="category" href="gallery-fullwidth-4-cols.html">Category 1</a>
-												</span>
-											</div>
-										</div>
 									</div>
 								</div>
 
@@ -624,27 +357,6 @@
 										<div class="item-media">
 											<img src="images/gallery/08.jpg" alt="">
 											<div class="media-links">
-											</div>
-										</div>
-										<div class="item-content display_table">
-											<div class="display_table_cell">
-												<div class="links-wrap greylinks">
-													<a href="#" class="like-link">
-														<i class="flaticon-heart"></i>
-													</a>
-													<a class="p-link" title="" href="gallery-single.html">
-														<i class="flaticon-link"></i>
-													</a>
-													<a class="p-view prettyPhoto " title="" data-gal="prettyPhoto[gal]" href="images/gallery/08.jpg">
-														<i class="flaticon-glasses"></i>
-													</a>
-												</div>
-												<h3 class="text-uppercase">
-													<a href="gallery-single.html">Nulla finibus sed justo</a>
-												</h3>
-												<span class="categories-links greylinks">
-													<a rel="category" href="gallery-fullwidth-4-cols.html">Category 1</a>
-												</span>
 											</div>
 										</div>
 									</div>
@@ -673,16 +385,14 @@
 								</div>
 								<div class="item-content with_background with_border">
 									<h4 class="entry-title thin bottommargin_20">
-										<a href="blog-single-right.html">
-											Nunc ac pulvinar ipsum. Nullam tempus lacinia.
-										</a>
+										Nunc ac pulvinar ipsum. Nullam tempus lacinia.
 									</h4>
 									<p>
 										Pellentesque vel gravida ligula, tristique porta leo. Aenean euismod iaculis nisl, ac pellentesque dolor tempor id. Praesent nisl dui.
 									</p>
 									<div class="item-meta greylinks margin_0">
 										<span class="item-date">4 days ago</span> /
-										<a href="blog-single-video-right.html#comments">9 comments</a> /
+										9 comments /
 										<span class="item-likes">17 likes</span>
 									</div>
 								</div>
@@ -695,16 +405,14 @@
 								</div>
 								<div class="item-content with_background with_border">
 									<h4 class="entry-title thin bottommargin_20">
-										<a href="blog-single-right.html">
-											In ut justo eget urna sagittis sollicitudin arcu.
-										</a>
+										In ut justo eget urna sagittis sollicitudin arcu.
 									</h4>
 									<p>
 										Praesent dictum accumsan sodales. Pellentesque euismod posuere lorem ac sodales. Maecenas viverra lacus ipsum.
 									</p>
 									<div class="item-meta greylinks margin_0">
 										<span class="item-date">2 days ago</span> /
-										<a href="blog-single-video-right.html#comments">3 comments</a> /
+										3 comments /
 										<span class="item-likes">7 likes</span>
 									</div>
 								</div>
@@ -717,16 +425,14 @@
 								</div>
 								<div class="item-content with_background with_border">
 									<h4 class="entry-title thin bottommargin_20">
-										<a href="blog-single-right.html">
-											Cum sociis natoque penatib et magnis parturient.
-										</a>
+										Cum sociis natoque penatib et magnis parturient.
 									</h4>
 									<p>
 										Phasellus nec finibus ex, ut congue velit. Proin nec pellentesque sapien. Nunc pulvinar nulla eu sodales dignissim. Proin lacinia dolor eget.
 									</p>
 									<div class="item-meta greylinks margin_0">
 										<span class="item-date">2 days ago</span> /
-										<a href="blog-single-video-right.html#comments">1 comment</a> /
+										1 comment /
 										<span class="item-likes">5 likes</span>
 									</div>
 								</div>
@@ -735,71 +441,6 @@
 					</div>
 				</div>
 			</section>
-
-		<!--	<section class="ds ms columns_margin_0">
-				<div class="container-fluid">
-					<div class="row">
-						<div class="col-sm-12">
-							<div class="owl-carousel partners-carousel margin_0" data-responsive-lg="6" data-responsive-md="5" data-responsive-sm="3" data-responsive-xs="2" data-margin="0">
-								<div class="vertical-item">
-									<div class="item-media">
-										<img src="images/partners/01.png" alt="" class="light-partner">
-										<img src="images/partners/01-dark.png" alt="" class="dark-partner">
-										<div class="media-links">
-											<a href="#" class="abs-link"></a>
-										</div>
-									</div>
-								</div>
-								<div class="vertical-item">
-									<div class="item-media">
-										<img src="images/partners/02.png" alt="" class="light-partner">
-										<img src="images/partners/02-dark.png" alt="" class="dark-partner">
-										<div class="media-links">
-											<a href="#" class="abs-link"></a>
-										</div>
-									</div>
-								</div>
-								<div class="vertical-item">
-									<div class="item-media">
-										<img src="images/partners/03.png" alt="" class="light-partner">
-										<img src="images/partners/03-dark.png" alt="" class="dark-partner">
-										<div class="media-links">
-											<a href="#" class="abs-link"></a>
-										</div>
-									</div>
-								</div>
-								<div class="vertical-item">
-									<div class="item-media">
-										<img src="images/partners/04.png" alt="" class="light-partner">
-										<img src="images/partners/04-dark.png" alt="" class="dark-partner">
-										<div class="media-links">
-											<a href="#" class="abs-link"></a>
-										</div>
-									</div>
-								</div>
-								<div class="vertical-item">
-									<div class="item-media">
-										<img src="images/partners/05.png" alt="" class="light-partner">
-										<img src="images/partners/05-dark.png" alt="" class="dark-partner">
-										<div class="media-links">
-											<a href="#" class="abs-link"></a>
-										</div>
-									</div>
-								</div>
-								<div class="vertical-item">
-									<div class="item-media">
-										<img src="images/partners/06.png" alt="" class="light-partner">
-										<img src="images/partners/06-dark.png" alt="" class="dark-partner">
-										<div class="media-links">
-											<a href="#" class="abs-link"></a>
-										</div>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</section> -->
 
 			<section class="ds section_padding_top_110 columns_margin_bottom_30 section_padding_bottom_65">
 				<div class="container">
@@ -812,10 +453,6 @@
 								 of services. And also, to form unbreakable bond of trust by providing the most reliable and efficient
 								  repairing and servicings to the customers.
 							</p>
-							<!--<p>
-								Praesent maximus lorem et nisl pulvinar, vel tempus quam pulvinar. Cras nisl lacus, vulputate eu magna nec, fringilla finibus felis. Nulla sem turpis, elementum sed interdum non, cursus condimentum nisl. Vestibulum vitae tellus velit. Vestibulum ante
-								ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae. Nulla fermentum purus vel enim pharetra, in suscipit ex ullamcorper. Nunc accumsan purus augue sit amet.
-							</p>-->
 							<a href="about.php" class="theme_button small_button topmargin_20">Read more</a>
 						</div>
 						<div class="col-md-6">

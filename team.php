@@ -7,7 +7,7 @@
 <!--<![endif]-->
 
 
-<!-- Mirrored from html.modernwebtemplates.com/carrepair/services.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 17 Jan 2023 05:29:55 GMT -->
+<!-- Mirrored from html.modernwebtemplates.com/carrepair/team.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 17 Jan 2023 05:29:47 GMT -->
 <head>
 	<title>CarRepair</title>
 	<meta charset="utf-8">
@@ -66,7 +66,7 @@
 					<div class="row">
 						<div class="col-md-5 text-center text-md-left">
 							<a href="index.html" class="logo">
-								<img src="images/logo_big.png" alt="" style="height: 50px; width: 100px;" >
+							<img src="images/logo_big.png" alt="" style="height: 50px; width: 100px">
 							</a>
 						</div>
 
@@ -104,80 +104,139 @@
 			<section class="page_breadcrumbs template_breadcrumbs ds parallax">
 				<div class="container">
 					<div class="row">
-						<h1 class="col-sm-12 text-center">Services</h1>
-					</div>
-				</div>
-			</section>
-			<section class="ds section_padding_top_110 section_padding_bottom_50 columns_margin_bottom_60">
-				<div class="container">
-					<div class="row isotope_container isotope masonry-layout">					
-						<div class="isotope-item col-md-4 col-sm-6">
-							<div class="vertical-item text-center">
-								<div class="item-media">
-									<img src="images/gallery/02.jpg" alt="">
-								</div>
-								<div class="item-content">
-									<h4 class="entry-title bottommargin_15">
-										Fluid exchange or refill
-									</h4>
-								</div>
-							</div>
-						</div>
-						<div class="isotope-item col-md-4 col-sm-6">
-							<div class="vertical-item text-center">
-								<div class="item-media">
-									<img src="images/gallery/17.jpg" alt="">
-								</div>
-								<div class="item-content">
-									<h4 class="entry-title bottommargin_15">
-										Battery Repair
-									</h4>
-								</div>
-							</div>
-						</div>
-						<div class="isotope-item col-md-4 col-sm-6">
-							<div class="vertical-item text-center">
-								<div class="item-media">
-									<img src="images/gallery/08.jpg" alt="">
-								</div>
-								<div class="item-content">
-									<h4 class="entry-title bottommargin_15">
-										Oil changing
-									</h4>
-								</div>
-							</div>
-						</div>
-						<div class="isotope-item col-md-4 col-sm-6">
-							<div class="vertical-item text-center">
-								<div class="item-media">
-									<img src="images/gallery/18.jpg" alt="">
-								</div>
-								<div class="item-content">
-									<h4 class="entry-title bottommargin_15">
-										General service
-									</h4>
-								</div>
-							</div>
-						</div>
-						<div class="isotope-item col-md-4 col-sm-6">
-							<div class="vertical-item text-center">
-								<div class="item-media">
-									<img src="images/gallery/19.jpg" alt="">
-								</div>
-								<div class="item-content">
-									<h4 class="entry-title bottommargin_15">
-										Engine repairing
-									</h4>
-								</div>
-							</div>
+						<div class="col-sm-12 text-center">
+							<h1>Our Team</h1>
 						</div>
 					</div>
 				</div>
 			</section>
 
+			<section class="ds page_portfolio section_padding_top_120 section_padding_bottom_50 columns_margin_bottom_60">
+				<div class="container">
+					<div class="isotope_container isotope row masonry-layout" data-filters=".isotope_filters">
+
+						<div class="isotope-item col-lg-3 col-md-4 col-sm-6 photography">
+							<div class="vertical-item content-padding content-overlapping text-center">
+								<div class="item-media">
+									<img src="images/team/01.jpg" alt="">
+								</div>
+								<div class="item-content with_background with_border">
+									<h4 class="text-uppercase">
+										Tyler Valdez
+									</h4>
+									<p>Developer</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="isotope-item col-lg-3 col-md-4 col-sm-6 photography">
+							<div class="vertical-item content-padding content-overlapping text-center">
+								<div class="item-media">
+									<img src="images/team/02.jpg" alt="">
+								</div>
+								<div class="item-content with_background with_border">
+									<h4 class="text-uppercase">
+										Margaret Silva
+									</h4>
+									<p>Engineer</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="isotope-item col-lg-3 col-md-4 col-sm-6 photography">
+							<div class="vertical-item content-padding content-overlapping text-center">
+								<div class="item-media">
+									<img src="images/team/03.jpg" alt="">
+								</div>
+								<div class="item-content with_background with_border">
+									<h4 class="text-uppercase">
+										Harry Cummings
+									</h4>
+									<p>Developer</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="isotope-item col-lg-3 col-md-4 col-sm-6 photography">
+							<div class="vertical-item content-padding content-overlapping text-center">
+								<div class="item-media">
+									<img src="images/team/04.jpg" alt="">
+								</div>
+								<div class="item-content with_background with_border">
+									<h4 class="text-uppercase">
+										Alan McGuire
+									</h4>
+									<p>Engineer</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="isotope-item col-lg-3 col-md-4 col-sm-6 photography">
+							<div class="vertical-item content-padding content-overlapping text-center">
+								<div class="item-media">
+									<img src="images/team/05.jpg" alt="">
+								</div>
+								<div class="item-content with_background with_border">
+									<h4 class="text-uppercase">
+										Charlie Stewart
+									</h4>
+									<p>Administrator</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="isotope-item col-lg-3 col-md-4 col-sm-6 photography">
+							<div class="vertical-item content-padding content-overlapping text-center">
+								<div class="item-media">
+									<img src="images/team/06.jpg" alt="">
+								</div>
+								<div class="item-content with_background with_border">
+									<h4 class="text-uppercase">
+										Ian Hernandez
+									</h4>
+									<p>Engineer</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="isotope-item col-lg-3 col-md-4 col-sm-6 photography">
+							<div class="vertical-item content-padding content-overlapping text-center">
+								<div class="item-media">
+									<img src="images/team/07.jpg" alt="">
+								</div>
+								<div class="item-content with_background with_border">
+									<h4 class="text-uppercase">
+										Emilie Day
+									</h4>
+									<p>Tuning Designer</p>
+								</div>
+							</div>
+						</div>
+
+						<div class="isotope-item col-lg-3 col-md-4 col-sm-6 photography">
+							<div class="vertical-item content-padding content-overlapping text-center">
+								<div class="item-media">
+									<img src="images/team/08.jpg" alt="">
+								</div>
+								<div class="item-content with_background with_border">
+									<h4 class="text-uppercase">
+										Pauline Fisher
+									</h4>
+									<p>Manager</p>
+								</div>
+							</div>
+						</div>
+
+					</div>
+					<!-- eof .isotope_container.row -->
+				</div>
+			</section>
+
 			<?php
-				include("footer.php");
+				include ("footer.php");
 			?>
+
+			
 
 		</div>
 		<!-- eof #box_wrapper -->
@@ -191,5 +250,5 @@
 </body>
 
 
-<!-- Mirrored from html.modernwebtemplates.com/carrepair/services.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 17 Jan 2023 05:30:00 GMT -->
+<!-- Mirrored from html.modernwebtemplates.com/carrepair/team.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 17 Jan 2023 05:29:54 GMT -->
 </html>
